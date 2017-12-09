@@ -1,6 +1,6 @@
 using System;
 
-namespace ConnectionCheck
+namespace ComponentNumberingPlugin
 {
 	public partial class MainForm : Tekla.Structures.Dialog.PluginFormBase
 	{

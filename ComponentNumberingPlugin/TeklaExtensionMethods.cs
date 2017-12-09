@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Tekla.Structures.Model;
 
-namespace ConnectionCheck
+namespace ComponentNumberingPlugin
 {
 	public static class TeklaExtensionMethods
 	{
